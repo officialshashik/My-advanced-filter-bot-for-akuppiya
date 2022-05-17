@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/officialshashik/Adv-Auto-Filter-Bot-V2.git",
+    "repository": "https://github.com/officialshashik/My-advanced-filter-bot-for-akuppiya",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
