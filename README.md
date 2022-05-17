@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/officialshashik/My-advanced-filter-bot-for-akuppiya.git">
+<a href="https://github.com/officialshashik/AK-FILTER-BO-SCRIPT.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
